@@ -156,7 +156,12 @@ footer {
   padding: 20px;
   color: whitesmoke;
   background-color: skyblue;
-  text-align: center;  
+  text-align: center;
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  box-sizing: border-box;  
 }
 
 /*ิabout us style*/
